@@ -14,6 +14,14 @@ Aidlyn ensures that helpers and rescuers can notify you about your vehicle (Acci
 - **Total Privacy**: Users can instantly toggle their contact visibility on or off. Rescuers don't need an app to scan or report an incident.
 - **Smart WhatsApp Integration**: Allows rescuers to send a pre-formatted WhatsApp message with one tap.
 - **Live Location Sharing**: Rescuers can opt-in to attach their precise GPS location, instantly sending the owner a tap-to-navigate Google Maps link to the vehicle's location.
+- **Installable Native-like App (PWA)**: Users can directly install Aidlyn to their home screens as a Progressive Web App, no App Store required!
+
+## 📱 App Installation (PWA)
+
+Aidlyn is built as a Progressive Web App (PWA). This means you and your users can install it as a fully-functional App directly from the browser:
+- **Android/Chrome**: Visit the site and tap "Install Aidlyn" from the prompt or browser menu.
+- **iOS/Safari**: Visit the site, tap the "Share" icon, and select "Add to Home Screen".
+The app features true offline-caching and a full-screen, native-like experience.
 
 ## 🚀 Local Development Quick Start
 
